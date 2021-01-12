@@ -1,0 +1,20 @@
+﻿  RetryCV.cpp
+C:\Users\bpatt\Desktop\RetryCV\RetryCV\RetryCV.cpp(61,57): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+C:\Users\bpatt\Desktop\RetryCV\RetryCV\RetryCV.cpp(68,62): warning C4244: '=': conversion from '_Tp' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=double
+          ]
+          and
+          [
+              _Tp=int
+          ]
+  RetryCV.vcxproj -> C:\Users\bpatt\Desktop\RetryCV\x64\Debug\RetryCV.exe
